@@ -86,19 +86,3 @@ wrangler publish
 
 ## 🧑‍🤝‍🧑 用户群
 
-使用过程中有任何问题或建议，欢迎加入企鹅群反馈: [![群](https://img.shields.io/badge/%E4%BC%81%E9%B9%85%E7%BE%A4-595941841-ff69b4)](https://qm.qq.com/q/RpJXzgfAMG)。
-
-## 💰 赞赏
-
-如果觉得这个项目对你有帮助，欢迎请我喝咖啡 ☕️ ～
-
-> 采取**自愿**原则, 收到的赞赏将用于提高开发者积极性和开发环境。
-
-<div id='readme-reward' style="display: flex; gap: 8px; flex-wrap: wrap; width: 100%">
-  <img src="https://smms.viki.moe/2022/11/16/X2kFMdaxvSc1V5P.jpg" alt="wxpay" height="160px"style="margin: 24px;"/>
-  <img src="https://smms.viki.moe/2022/11/16/vZ4xkCopKRmIFVX.jpg" alt="alipay" height="160px" style="margin:24px;"/>
-</div>
-
-## 🪪 License （开源协议）
-
-[MIT](license) License © 2022-PRESENT Viki
